@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: rgb(240, 100, 0);
+}
