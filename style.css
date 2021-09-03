@@ -7,3 +7,12 @@ h1{
 .highlight{
     color: rgb(240, 100, 0);
 }
+.half-width{
+    width: 25%;
+    margin: 5%;
+    padding: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
